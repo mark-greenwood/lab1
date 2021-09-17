@@ -1,0 +1,14 @@
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.exe
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.deps.json
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.runtimeconfig.json
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.runtimeconfig.dev.json
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.dll
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\bin\Debug\netcoreapp3.1\CarSimulator.pdb
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.csproj.AssemblyReference.cache
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.AssemblyInfoInputs.cache
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.AssemblyInfo.cs
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.csproj.CoreCompileInputs.cache
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.dll
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.pdb
+C:\Users\marka\OneDrive\Documents\GitHub\lab1\CarSimulator\obj\Debug\netcoreapp3.1\CarSimulator.genruntimeconfig.cache
